@@ -9,6 +9,9 @@ About:
 -Meciuri faimoase in which it is presented the most famous match in chess (Frank Marshall vs Stefan Levitsky)
 
 There are olso videos that show us how each piece can move, the final moves of the Frank Marshall vs Stefan Levitsky game and more.
+
+
+![chess 1](https://github.com/NofalJaber/Chess-Web-Project/assets/158154010/40e6aaeb-6731-4e25-b964-c34890008d59)
 ![gif1](https://github.com/NofalJaber/Chess-Web-Project/assets/158154010/8f808607-c62d-430a-a827-57adc9f76c7f)
 ![gif2](https://github.com/NofalJaber/Chess-Web-Project/assets/158154010/603ca938-7433-4e62-a602-7b6035d7149b)
 ![gif3](https://github.com/NofalJaber/Chess-Web-Project/assets/158154010/d7c544cc-dffc-4132-b9ed-83b5a4808a4a)
